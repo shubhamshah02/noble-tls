@@ -10,7 +10,7 @@ import httpx
 
 owner = 'bogdanfinn'
 repo = 'tls-client'
-url = f'https://api.github.com/repos/{owner}/{repo}/releases/latest'
+url = f'https://api.github.com/repos/bogdanfinn/tls-client/releases/tags/v1.7.5'
 root_directory = root_dir()
 
 
